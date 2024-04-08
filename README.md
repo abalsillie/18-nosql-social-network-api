@@ -21,7 +21,11 @@ The database enables:
 - Insomnia
 
 ## Usage
-Video link here which walks through the use of the application in Insomnia: https://drive.google.com/file/d/1fUwR3_YNb5hqgCt-nvee-EcArJW2aFlS/view?usp=drive_link
+Video links here which walk through the use of the application in Insomnia
+- https://drive.google.com/file/d/1tWdV2UIsxDuk0NfZUrIiO2N3dRc84lr8/view?usp=drive_link
+- https://drive.google.com/file/d/1AisG5uxg6H-e3-vfn0Rq_tCej2eUIaFD/view?usp=drive_link
+- https://drive.google.com/file/d/1HMao1YF95isYrQW-wcCZM_G_NkbUz_QS/view?usp=drive_link
+- https://drive.google.com/file/d/14PvkstuspaJPzsDlry8-EdDLFSrnuI3x/view?usp=drive_link
 
 ## License
 MIT License
